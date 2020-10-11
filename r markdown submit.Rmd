@@ -1,0 +1,15 @@
+---
+title: "R markdown document"
+author: "Myself"
+date: "12/10/2020"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is an R Markdown document
+
